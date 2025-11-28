@@ -13,7 +13,7 @@ typedef struct {
 int main() {
 
     Territorio territorios[5];
-    int i;  // <--- VARIÁVEL DECLARADA ANTES DO FOR (EVITA O ERRO)
+    int i;
 
     printf("=== SISTEMA DE CADASTRO DE TERRITORIOS (WAR) ===\n\n");
 
