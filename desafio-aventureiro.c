@@ -5,3 +5,9 @@
 
 #define MAX_NOME 30
 #define MAX_COR 10
+
+typedef struct {
+char nome[MAX_NOME];
+char cor[MAX_COR];
+int tropas;
+} Território;
