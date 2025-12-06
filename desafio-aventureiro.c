@@ -9,8 +9,7 @@
     - Modularização: cadastro, exibição, ataque, liberação de memória
     - srand(time(NULL)) para aleatoriedade
     - Validações e interface amigável no terminal
-*/
-
+*
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
