@@ -13,6 +13,8 @@ Requisitos atendidos:
     - Validações e interface amigável no terminal
 <img width="978" height="512" alt="Screenshot_33" src="https://github.com/user-attachments/assets/6c7cb6af-6fd3-46c2-a012-d87075c7cb1f" />
 
+<img width="980" height="512" alt="Screenshot_34" src="https://github.com/user-attachments/assets/95808b55-2cab-4a7a-9602-4dde350f6c94" />
+
     
 
     
