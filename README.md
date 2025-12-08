@@ -17,6 +17,8 @@ Requisitos atendidos:
 
 <img width="979" height="511" alt="Screenshot_35" src="https://github.com/user-attachments/assets/17131457-b9a5-4870-9c77-e9a3b3559b8b" />
 
-    
+Desafio Mestre
+<img width="977" height="510" alt="Screenshot_36" src="https://github.com/user-attachments/assets/c66a2215-4896-488b-bd93-faffbb02fd3b" />
+
 
     
