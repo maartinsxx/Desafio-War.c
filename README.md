@@ -11,11 +11,8 @@ Requisitos atendidos:
     - Modularização: cadastro, exibição, ataque, liberação de memória
     - srand(time(NULL)) para aleatoriedade
     - Validações e interface amigável no terminal
-    
-    <img width="978" height="512" alt="Screenshot_33" src="https://github.com/user-attachments/assets/9f172f47-deb9-4409-ad10-6992be6255ee" />
-    <img width="980" height="512" alt="Screenshot_34" src="https://github.com/user-attachments/assets/64d60de4-510e-46d6-82a2-c0aec83f0c05" />
+<img width="978" height="512" alt="Screenshot_33" src="https://github.com/user-attachments/assets/6c7cb6af-6fd3-46c2-a012-d87075c7cb1f" />
 
     
- 
 
     
