@@ -47,7 +47,7 @@ O programa torna-se mais completo e estratégico, refletindo situações mais pr
 <img width="980" height="512" alt="Screenshot_34" src="https://github.com/user-attachments/assets/95808b55-2cab-4a7a-9602-4dde350f6c94" />
 <img width="979" height="511" alt="Screenshot_35" src="https://github.com/user-attachments/assets/17131457-b9a5-4870-9c77-e9a3b3559b8b" />
 
-## Nível Aventureiro – Comparações, Regras e Lógica de Decisão
+## NÍVEL MESTRE – Comparações, Regras e Lógica de Decisão
 
 No nível final, o projeto evolui para uma aplicação totalmente funcional, dinâmica e interativa.
 Aqui são adicionados menus, decisões condicionais mais elaboradas, comparações entre valores e regras que definem diferentes resultados conforme a escolha do usuário.
