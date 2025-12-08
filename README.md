@@ -20,5 +20,8 @@ Requisitos atendidos:
 Desafio Mestre
 <img width="977" height="510" alt="Screenshot_36" src="https://github.com/user-attachments/assets/c66a2215-4896-488b-bd93-faffbb02fd3b" />
 
+<img width="976" height="514" alt="Screenshot_37" src="https://github.com/user-attachments/assets/aa2a45a1-d605-4358-a492-1144b0384265" />
+
+
 
     
