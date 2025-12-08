@@ -1,5 +1,6 @@
 Desafio Novato
 <img width="977" height="511" alt="Screenshot_32" src="https://github.com/user-attachments/assets/90452262-0740-4044-ad75-0cde11f21ddd" />
+
 Desafio Aventureiro
 Requisitos atendidos:
     - Uso de malloc/calloc para criar vetor dinâmico de Territorio
@@ -10,3 +11,11 @@ Requisitos atendidos:
     - Modularização: cadastro, exibição, ataque, liberação de memória
     - srand(time(NULL)) para aleatoriedade
     - Validações e interface amigável no terminal
+    
+    <img width="978" height="512" alt="Screenshot_33" src="https://github.com/user-attachments/assets/9f172f47-deb9-4409-ad10-6992be6255ee" />
+    <img width="980" height="512" alt="Screenshot_34" src="https://github.com/user-attachments/assets/64d60de4-510e-46d6-82a2-c0aec83f0c05" />
+
+    
+ 
+
+    
